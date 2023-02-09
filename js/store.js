@@ -35,6 +35,7 @@ import kayeangela from './modules/kayeangela.js';
 import joebe from './modules/joebe.js';
 import john from './modules/john.js';
 import rofel from './modules/rofel.js';
+import emmar from './modules/emmar.js';
 
 const store = Vuex.createStore({
     modules: {
@@ -42,6 +43,7 @@ const store = Vuex.createStore({
 
         // include your module here (e.g. john)
         // ...
+        emmar,
         jake018,
         Francis,
         louisa,
