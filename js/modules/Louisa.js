@@ -1,8 +1,8 @@
 export default {
     state: {
         profile: {
-            username: "your-github-username",
-            fullName: "Your Full Name",
+            username: "LouisaOrobiaSilva",
+            fullName: "Louisa Orobia Silva",
         },
 
         items: [
