@@ -3,7 +3,6 @@
 
 // import your .js file here (e.g. import john from './modules/john.js')
 // ...
-import francis from './modules/francis.js';
 import louisa from './modules/Louisa.js';
 import joshua from './modules/joshua.js';
 import rommel from './modules/rommel.js';
@@ -41,7 +40,6 @@ const store = Vuex.createStore({
 
         // include your module here (e.g. john)
         // ...
-        francis,
         louisa,
         joshua,
         rommel,
