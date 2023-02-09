@@ -1,7 +1,7 @@
 export default {
     state: {
         profile: {
-            username: "jake18",
+            username: "jake018",
             fullName: "Jake Agnas",
         },
 
